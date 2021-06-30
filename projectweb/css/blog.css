@@ -1,0 +1,41 @@
+.content-blog h2{
+ text-align: center;
+}
+
+
+.content-blog-main
+{
+  /* height: 404px; */
+     /* background-color: #36D1D6; */
+   display: flex;
+   padding: 9px;
+   margin-top: 10px;
+   position: relative;
+   background-color: white;
+
+
+}
+.meta-data
+{
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+
+}
+.social
+{
+  align-self:center;
+  cursor: pointer;
+}
+.other-articles{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.home-article
+{
+  flex-direction: column;
+  justify-content: center;
+}

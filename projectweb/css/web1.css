@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
+:root{
+  --main-bg-color:red;
+  --font1:'Suez One', serif;
+  --font2: 'Suez One',serif;
+}
+
+.max_width-1
+{
+  width: 80vw;
+}
+.max_width-2{
+  width: 60vw;
+}
+.m-auto
+{
+  margin: auto;
+}
+.my-2
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
